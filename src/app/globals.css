@@ -10,3 +10,16 @@ html,
 body {
   font-family: "Roboto", sans-serif;
 }
+
+.bodyContainer {
+  display: grid;
+  grid-template-rows: 40px 1fr 20px;
+  align-items: center;
+  justify-items: center;
+  min-height: 100svh;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
