@@ -1,0 +1,12 @@
+.navLink {
+  text-decoration: none;
+  color: var(--color-white);
+  font-size: 20px;
+  transition: 0.2s;
+}
+
+.navLink:hover {
+  text-decoration: none;
+  color: var(--theme-color-dark-cyan);
+  transition: 0.2s;
+}

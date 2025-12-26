@@ -1,5 +1,8 @@
 {
-  "Header": {
-    "title": "Główna"
+  "Navigation": {
+    "home": "Główna",
+    "about-us": "O nas",
+    "prices": "Cennik",
+    "contact": "Kontakt"
   }
 }

@@ -1,5 +1,8 @@
 {
-  "Header": {
-    "title": "Головна"
+  "Navigation": {
+    "home": "Головна",
+    "about-us": "Про нас",
+    "prices": "Цінник",
+    "contact": "Контакти"
   }
 }
